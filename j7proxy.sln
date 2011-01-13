@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "j7proxy_injector", "src\injector\j7proxy_injector.vcproj", "{F5BCD97D-C0C4-4403-8B0B-54BE5EE07454}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "j7proxy_module", "src\module\j7proxy_module.vcproj", "{C67FFF90-E961-4053-BF7A-8100A6AA5E7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5BCD97D-C0C4-4403-8B0B-54BE5EE07454}.Release|Win32.ActiveCfg = Release|Win32
+		{F5BCD97D-C0C4-4403-8B0B-54BE5EE07454}.Release|Win32.Build.0 = Release|Win32
+		{C67FFF90-E961-4053-BF7A-8100A6AA5E7B}.Release|Win32.ActiveCfg = Release|Win32
+		{C67FFF90-E961-4053-BF7A-8100A6AA5E7B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
